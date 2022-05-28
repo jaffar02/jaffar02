@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaffar02&label=Profile%20views&color=0e75b6&style=flat" alt="jaffar02" /> </p>
 
 
-- 🌱 I’m currently learning **Django , Android**
+- 🌱 I’m currently learning **Android**
 
 - 📫 How to reach me **jaffarbangash786@gmail.com**
 
